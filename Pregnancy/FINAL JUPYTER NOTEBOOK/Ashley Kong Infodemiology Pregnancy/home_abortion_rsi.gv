@@ -1,0 +1,34 @@
+digraph {
+	{
+		rank=same
+		A [label="home abortion"]
+		A [color=red]
+	}
+	{
+		rank=same
+		B [label="at home abortion: 100"]
+		B [color=blue]
+		C [label="abortion pill: 37"]
+		D [label="how to have an abortion at home: 12"]
+		D [color=blue]
+		E [label="how to have a home abortion: 12"]
+		E [color=blue]
+		F [label="home remedies for abortion: 11"]
+		F [color=blue]
+		G [label="abortion clinic: 9"]
+		H [label="plan b: 8"]
+		I [label="how to do an at home abortion: 7"]
+		I [color=blue]
+		J [label="home abortion methods: 4"]
+		J [color=blue]
+	}
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	A -> G
+	A -> H
+	A -> I
+	A -> J
+}

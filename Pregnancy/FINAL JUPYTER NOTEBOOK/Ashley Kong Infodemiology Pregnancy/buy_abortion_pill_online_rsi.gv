@@ -1,0 +1,16 @@
+digraph {
+	{
+		rank=same
+		A [label="buy abortion pill online"]
+		A [color=red]
+	}
+	{
+		rank=same
+		B [label="buy abortion pill kit online: 100"]
+		B [color=blue]
+		C [label="buy abortion pill online fast delivery: 25"]
+		C [color=blue]
+	}
+	A -> B
+	A -> C
+}
