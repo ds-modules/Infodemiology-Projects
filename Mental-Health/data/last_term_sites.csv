@@ -1,0 +1,251 @@
+initial_search_query,query,position,link,displayLink,site_probability
+therapy near me,physical therapy,1,https://en.wikipedia.org/wiki/Physical_therapy,en.wikipedia.org,0.037077915265681057
+therapy near me,physical therapy,2,https://www.apta.org/your-career/careers-in-physical-therapy/becoming-a-pt,www.apta.org,0.021187380151817748
+therapy near me,physical therapy,3,https://www.webmd.com/pain-management/what-is-physical-therapy,www.webmd.com,0.01589053511386331
+therapy near me,physical therapy,4,https://www.medicalnewstoday.com/articles/160645,www.medicalnewstoday.com,0.0084749520607271
+therapy near me,physical therapy,5,https://www.selectphysicaltherapy.com/,www.selectphysicaltherapy.com,0.007415583053136212
+therapy near me,physical therapy,6,https://www.bls.gov/ooh/healthcare/physical-therapists.htm,www.bls.gov,0.005296845037954437
+therapy near me,physical therapy,7,https://www.pivotphysicaltherapy.com/,www.pivotphysicaltherapy.com,0.00423747603036355
+therapy near me,physical therapy,8,https://soundcloud.com/physical-therapy,soundcloud.com,0.003178107022772662
+therapy near me,physical therapy,9,https://academic.oup.com/ptj,academic.oup.com,0.002118738015181775
+therapy near me,physical therapy,10,https://www.professionalpt.com/,www.professionalpt.com,0.0010593690075908874
+therapy near me,physical therapy near me,1,https://www.apta.org/FindaPT/,www.apta.org,0.002195439485820988
+therapy near me,physical therapy near me,2,https://www.athletico.com/,www.athletico.com,0.0012545368490405647
+therapy near me,physical therapy near me,3,https://www.selectphysicaltherapy.com/,www.selectphysicaltherapy.com,0.0009409026367804234
+therapy near me,physical therapy near me,4,https://thervo.com/physical-therapy,thervo.com,0.0005018147396162259
+therapy near me,physical therapy near me,5,https://www.inova.org/locations/inova-physical-therapy-center-annandale,www.inova.org,0.00043908789716419765
+therapy near me,physical therapy near me,6,https://ecrc-pt.com/,ecrc-pt.com,0.0003136342122601412
+therapy near me,physical therapy near me,7,https://www.bartleypt.com/,www.bartleypt.com,0.0002509073698081129
+therapy near me,physical therapy near me,8,https://actionphysicaltherapy.com/,actionphysicaltherapy.com,0.0001881805273560847
+therapy near me,physical therapy near me,9,https://www.pivotphysicaltherapy.com/locations/,www.pivotphysicaltherapy.com,0.00012545368490405646
+therapy near me,physical therapy near me,10,https://locations.atipt.com/duncanville-tx-s-cedar-ridge-dr,locations.atipt.com,6.272684245202823e-05
+therapy near me,massage,1,https://www.massageenvy.com/,www.massageenvy.com,0.13167987538271467
+therapy near me,massage,2,https://en.wikipedia.org/wiki/Massage,en.wikipedia.org,0.07524564307583698
+therapy near me,massage,3,https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/massage/art-20045743,www.mayoclinic.org,0.05643423230687772
+therapy near me,massage,4,https://www.webmd.com/balance/guide/massage-therapy-styles-and-health-benefits,www.webmd.com,0.030098257230334786
+therapy near me,massage,5,https://www.healthline.com/health/types-of-massage,www.healthline.com,0.02633597507654294
+therapy near me,massage,6,https://www.bls.gov/ooh/healthcare/massage-therapists.htm,www.bls.gov,0.018811410768959244
+therapy near me,massage,7,https://www.groupon.com/articles/types-of-massage,www.groupon.com,0.015049128615167393
+therapy near me,massage,8,https://www.amtamassage.org/,www.amtamassage.org,0.011286846461375545
+therapy near me,massage,9,https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know,www.nccih.nih.gov,0.0075245643075836964
+therapy near me,massage,10,https://handandstone.com/,handandstone.com,0.0037622821537918482
+therapy near me,massage therapy near me,1,https://www.maine.gov/pfr/professionallicensing/professions/massage/index.html,www.maine.gov,0.0007226121839028829
+therapy near me,massage therapy near me,2,https://www.yelp.com/nearme/massage-therapists,www.yelp.com,0.00041292124794450457
+therapy near me,massage therapy near me,3,https://thervo.com/massage,thervo.com,0.0003096909359583784
+therapy near me,massage therapy near me,4,https://connectivehealthmassage.com/,connectivehealthmassage.com,0.0001651684991778018
+therapy near me,massage therapy near me,5,https://www.groupon.com/local/massage,www.groupon.com,0.00014452243678057661
+therapy near me,massage therapy near me,6,https://www.willschiro.com/massage-therapy,www.willschiro.com,0.00010323031198612614
+therapy near me,massage therapy near me,7,https://www.spinesportshc.com/services/massage-therapy,www.spinesportshc.com,8.25842495889009e-05
+therapy near me,massage therapy near me,8,https://physicaltherapybeyond.com/healing-hands/,physicaltherapybeyond.com,6.193818719167568e-05
+therapy near me,massage therapy near me,9,http://www.serotamassagetherapy.com/,www.serotamassagetherapy.com,4.129212479445045e-05
+therapy near me,massage therapy near me,10,https://www.amtamassage.org/find-massage-therapist/,www.amtamassage.org,2.0646062397225226e-05
+therapy near me,massage therapy,1,https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know,www.nccih.nih.gov,0.005677181983414593
+therapy near me,massage therapy,2,https://www.medicinenet.com/massage_therapy/article.htm,www.medicinenet.com,0.0032441039905226248
+therapy near me,massage therapy,3,https://www.webmd.com/balance/guide/massage-therapy-styles-and-health-benefits,www.webmd.com,0.0024330779928919684
+therapy near me,massage therapy,4,https://massagetherapyfoundation.org/,massagetherapyfoundation.org,0.0012976415962090498
+therapy near me,massage therapy,5,https://www.mayoclinic.org/tests-procedures/massage-therapy/about/pac-20384595,www.mayoclinic.org,0.0011354363966829188
+therapy near me,massage therapy,6,https://www.amtamassage.org/,www.amtamassage.org,0.0008110259976306562
+therapy near me,massage therapy,7,https://www.massagetherapy.com/,www.massagetherapy.com,0.0006488207981045249
+therapy near me,massage therapy,8,https://massagewinnetka.com/,massagewinnetka.com,0.0004866155985783937
+therapy near me,massage therapy,9,https://www.bls.gov/ooh/healthcare/massage-therapists.htm,www.bls.gov,0.00032441039905226245
+therapy near me,massage therapy,10,https://www.spine-health.com/wellness/massage-therapy/massage-therapy-lower-back-pain,www.spine-health.com,0.00016220519952613122
+therapy near me,massage near me,1,https://www.groupon.com/local/massage,www.groupon.com,0.012191404424002338
+therapy near me,massage near me,2,https://elementsmassage.com/massage-places-near-me,elementsmassage.com,0.006966516813715622
+therapy near me,massage near me,3,https://www.rubmaps.ch/,www.rubmaps.ch,0.005224887610286716
+therapy near me,massage near me,4,https://www.kneadreliefmassage.com/,www.kneadreliefmassage.com,0.002786606725486249
+therapy near me,massage near me,5,https://www.spafinder.com/find/massage/,www.spafinder.com,0.002438280884800468
+therapy near me,massage near me,6,https://www.massageenvy.com/,www.massageenvy.com,0.0017416292034289054
+therapy near me,massage near me,7,https://massageluxe.com/locations/,massageluxe.com,0.0013933033627431244
+therapy near me,massage near me,8,https://square.site/book/0V8DV4DD3XB0G/massage-near-me-llc-denver-co,square.site,0.0010449775220573432
+therapy near me,massage near me,9,https://www.spafinder.com/find/deep-tissue-massage/,www.spafinder.com,0.0006966516813715622
+therapy near me,massage near me,10,https://handandstone.com/,handandstone.com,0.0003483258406857811
+therapy near me,therapist,1,https://www.talkspace.com/blog/therapist-psychotherapist-complete-definition/,www.talkspace.com,0.0375473956107015
+therapy near me,therapist,2,https://www.betterhelp.com/advice/psychologists/what-is-the-difference-between-a-therapist-and-a-psychologist/,www.betterhelp.com,0.021455654634686572
+therapy near me,therapist,3,https://www.goodtherapy.org/find-therapist.html,www.goodtherapy.org,0.01609174097601493
+therapy near me,therapist,4,https://www.psychologytoday.com/us/therapists,www.psychologytoday.com,0.00858226185387463
+therapy near me,therapist,5,https://www.theatlantic.com/projects/dear-therapist/,www.theatlantic.com,0.007509479122140301
+therapy near me,therapist,6,https://www.webmd.com/mental-health/features/how-to-find-therapist,www.webmd.com,0.005363913658671643
+therapy near me,therapist,7,https://www.therapistaid.com/,www.therapistaid.com,0.004291130926937315
+therapy near me,therapist,8,https://www.onetonline.org/link/summary/29-1129.01?redir=29-1125.01,www.onetonline.org,0.0032183481952029855
+therapy near me,therapist,9,https://www.healthline.com/health/how-to-find-a-therapist,www.healthline.com,0.0021455654634686574
+therapy near me,therapist,10,https://www.bls.gov/ooh/healthcare/physical-therapists.htm,www.bls.gov,0.0010727827317343287
+therapy near me,therapist near me,1,https://www.psychologytoday.com/us/therapists,www.psychologytoday.com,0.0041585834223986555
+therapy near me,therapist near me,2,https://thervo.com/therapists,thervo.com,0.0023763333842278037
+therapy near me,therapist near me,3,https://www.goodtherapy.org/find-therapist.html,www.goodtherapy.org,0.0017822500381708523
+therapy near me,therapist near me,4,https://www.talkspace.com/blog/counseling-near-me/,www.talkspace.com,0.0009505333536911214
+therapy near me,therapist near me,5,https://www.betterhelp.com/advice/therapy/how-do-i-find-a-therapist-near-me/,www.betterhelp.com,0.0008317166844797313
+therapy near me,therapist near me,6,https://www.realsimple.com/health/mind-mood/emotional-health/how-to-find-a-therapist,www.realsimple.com,0.0005940833460569509
+therapy near me,therapist near me,7,https://www.inclusivetherapists.com/,www.inclusivetherapists.com,0.0004752666768455607
+therapy near me,therapist near me,8,https://www.zocdoc.com/therapist-counselors/queens-213722pm,www.zocdoc.com,0.0003564500076341705
+therapy near me,therapist near me,9,https://www.gottman.com/couples/find-a-therapist/,www.gottman.com,0.00023763333842278034
+therapy near me,therapist near me,10,https://acceleratedresolutiontherapy.com/therapist-directory/,acceleratedresolutiontherapy.com,0.00011881666921139017
+therapy near me,therapy jobs near me,1,https://www.indeed.com/q-Mental-Health-Therapist-jobs.html,www.indeed.com,0.0005337506252912705
+therapy near me,therapy jobs near me,2,https://www.ziprecruiter.com/n/Therapist-Jobs-Near-Me,www.ziprecruiter.com,0.00030500035730929753
+therapy near me,therapy jobs near me,3,"https://www.glassdoor.com/Job/mental-health-therapist-jobs-SRCH_KO0,23.htm",www.glassdoor.com,0.0002287502679819731
+therapy near me,therapy jobs near me,4,https://www.simplyhired.com/search?q=mental+health+therapist,www.simplyhired.com,0.000122000142923719
+therapy near me,therapy jobs near me,5,https://jobs.apta.org/,jobs.apta.org,0.00010675012505825414
+therapy near me,therapy jobs near me,6,https://www.fortusgroup.com/tag/occupational-therapy-jobs-near-me/,www.fortusgroup.com,7.625008932732438e-05
+therapy near me,therapy jobs near me,7,https://otpotential.com/occupational-therapy-jobs,otpotential.com,6.10000714618595e-05
+therapy near me,therapy jobs near me,8,https://www.procaretherapy.com/school-jobs/school-based-physical-therapist-jobs/,www.procaretherapy.com,4.575005359639462e-05
+therapy near me,therapy jobs near me,9,https://thenonclinicalpt.com/non-clinical-jobs-physical-therapists/,thenonclinicalpt.com,3.050003573092975e-05
+therapy near me,therapy jobs near me,10,https://www.zippia.com/director-of-physical-therapy-jobs/jobs/,www.zippia.com,1.5250017865464875e-05
+therapy near me,jobs near me,1,https://www.ziprecruiter.com/n/Full-Time-Jobs-Near-Me,www.ziprecruiter.com,0.09401271045958746
+therapy near me,jobs near me,2,https://www.snagajob.com/search,www.snagajob.com,0.05372154883404998
+therapy near me,jobs near me,3,https://www.linkedin.com/jobs,www.linkedin.com,0.04029116162553748
+therapy near me,jobs near me,4,https://www.starbucks.com/careers/,www.starbucks.com,0.021488619533619992
+therapy near me,jobs near me,5,https://careers.walmart.com/,careers.walmart.com,0.018802542091917496
+therapy near me,jobs near me,6,https://careers.fedex.com/fedex/,careers.fedex.com,0.013430387208512496
+therapy near me,jobs near me,7,https://jobs.kroger.com/,jobs.kroger.com,0.010744309766809996
+therapy near me,jobs near me,8,https://corporate.lowes.com/careers,corporate.lowes.com,0.008058232325107497
+therapy near me,jobs near me,9,https://www.monster.com/jobs/,www.monster.com,0.005372154883404998
+therapy near me,jobs near me,10,https://corporate.target.com/careers/,corporate.target.com,0.002686077441702499
+therapy near me,occupational therapy near me,1,https://www.aota.org/Practice/Productive-Aging/Driving/driving-specialists-directory-search.aspx,www.aota.org,0.00029356627020609707
+therapy near me,occupational therapy near me,2,https://www.yelp.com/nearme/occupational-therapy,www.yelp.com,0.00016775215440348405
+therapy near me,occupational therapy near me,3,https://www.aota.org/Education-Careers/Find-School.aspx,www.aota.org,0.00012581411580261302
+therapy near me,occupational therapy near me,4,https://www.nrothandrehab.com/,www.nrothandrehab.com,6.710086176139361e-05
+therapy near me,occupational therapy near me,5,https://www.maine.gov/pfr/professionallicensing/professions/occupational/index.html,www.maine.gov,5.8713254041219415e-05
+therapy near me,occupational therapy near me,6,https://www.une.edu/wchp/ot,www.une.edu,4.193803860087101e-05
+therapy near me,occupational therapy near me,7,https://www.connecticutchildrens.org/search-specialties/occupational-therapy/,www.connecticutchildrens.org,3.355043088069681e-05
+therapy near me,occupational therapy near me,8,https://www.mainehealth.org/Southern-Maine-Health-Care/Services/Occupational-Therapy,www.mainehealth.org,2.5162823160522605e-05
+therapy near me,occupational therapy near me,9,https://www.indeed.com/q-Occupational-Therapist-l-Maine-jobs.html,www.indeed.com,1.6775215440348403e-05
+therapy near me,occupational therapy near me,10,https://www.athletico.com/services/occupational-therapy/,www.athletico.com,8.387607720174202e-06
+therapy near me,occupational therapy,1,https://en.wikipedia.org/wiki/Occupational_therapy,en.wikipedia.org,0.00734713737086535
+therapy near me,occupational therapy,2,https://www.aota.org/About-Occupational-Therapy.aspx,www.aota.org,0.004198364211923058
+therapy near me,occupational therapy,3,https://www.bls.gov/ooh/healthcare/occupational-therapists.htm,www.bls.gov,0.0031487731589422926
+therapy near me,occupational therapy,4,https://www.aota.org/Conference-Events/OTMonth/what-is-OT.aspx,www.aota.org,0.001679345684769223
+therapy near me,occupational therapy,5,https://www.webmd.com/pain-management/occupational-rehab,www.webmd.com,0.00146942747417307
+therapy near me,occupational therapy,6,https://kidshealth.org/en/parents/occupational-therapy.html,kidshealth.org,0.0010495910529807644
+therapy near me,occupational therapy,7,https://www.understood.org/en/learning-thinking-differences/treatments-approaches/therapies/occupational-therapy-what-you-need-to-know,www.understood.org,0.0008396728423846115
+therapy near me,occupational therapy,8,https://www.usnews.com/best-graduate-schools/top-health-schools/occupational-therapy-rankings,www.usnews.com,0.0006297546317884585
+therapy near me,occupational therapy,9,https://www.nbcot.org/,www.nbcot.org,0.00041983642119230573
+therapy near me,occupational therapy,10,https://www.ithaca.edu/academics/school-health-sciences-and-human-performance/occupational-therapy,www.ithaca.edu,0.00020991821059615287
+therapy near me,physical therapy jobs near me,1,https://www.indeed.com/q-Physical-Therapist-jobs.html,www.indeed.com,0.00023291823637545733
+therapy near me,physical therapy jobs near me,2,https://www.ziprecruiter.com/Jobs/Physical-Therapy,www.ziprecruiter.com,0.00013309613507168992
+therapy near me,physical therapy jobs near me,3,"https://www.glassdoor.com/Job/physical-therapist-jobs-SRCH_KO0,18.htm",www.glassdoor.com,9.982210130376744e-05
+therapy near me,physical therapy jobs near me,4,"https://www.indeed.com/q-Physical-Therapist-l-Philadelphia,-PA-jobs.html",www.indeed.com,5.323845402867597e-05
+therapy near me,physical therapy jobs near me,5,https://jobs.apta.org/,jobs.apta.org,4.6583647275091474e-05
+therapy near me,physical therapy jobs near me,6,https://pt.ia.associationcareernetwork.com/,pt.ia.associationcareernetwork.com,3.327403376792248e-05
+therapy near me,physical therapy jobs near me,7,https://www.bls.gov/ooh/healthcare/physical-therapists.htm,www.bls.gov,2.6619227014337986e-05
+therapy near me,physical therapy jobs near me,8,https://www.monster.com/jobs/q-physical-therapy-jobs,www.monster.com,1.996442026075349e-05
+therapy near me,physical therapy jobs near me,9,https://thenonclinicalpt.com/non-clinical-jobs-physical-therapists/,thenonclinicalpt.com,1.3309613507168993e-05
+therapy near me,physical therapy jobs near me,10,https://www.sunbeltstaffing.com/school-jobs/school-physical-therapy-jobs/,www.sunbeltstaffing.com,6.654806753584496e-06
+therapy near me,speech therapy near me,1,https://nocospeech.org/,nocospeech.org,0.00023859333781443763
+therapy near me,speech therapy near me,2,https://www.beaumont.org/services/speech-language-pathology,www.beaumont.org,0.00013633905017967866
+therapy near me,speech therapy near me,3,https://www.yelp.com/nearme/speech-therapists,www.yelp.com,0.00010225428763475899
+therapy near me,speech therapy near me,4,https://www.adventisthealth.org/rideout/services/outpatient-rehabilitation/,www.adventisthealth.org,5.4535620071871465e-05
+therapy near me,speech therapy near me,5,https://westutter.org/who-we-help/find-speech-therapist/,westutter.org,4.7718667562887536e-05
+therapy near me,speech therapy near me,6,https://www.chkd.org/our-services/specialty-care-and-programs/rehabilitative-services-and-therapy/speech-therapy/,www.chkd.org,3.4084762544919665e-05
+therapy near me,speech therapy near me,7,https://www.agapespeech.com/,www.agapespeech.com,2.7267810035935733e-05
+therapy near me,speech therapy near me,8,https://www.healthline.com/health/speech-therapy,www.healthline.com,2.0450857526951797e-05
+therapy near me,speech therapy near me,9,https://www.thespeechemporium.com/,www.thespeechemporium.com,1.3633905017967866e-05
+therapy near me,speech therapy near me,10,http://www.gardenstatespeech.com/,www.gardenstatespeech.com,6.816952508983933e-06
+therapy near me,speech therapy,1,https://www.healthline.com/health/speech-therapy,www.healthline.com,0.00493641347359937
+therapy near me,speech therapy,2,https://www.understood.org/en/learning-thinking-differences/treatments-approaches/therapies/what-you-need-to-know-about-speech-therapy,www.understood.org,0.0028208076991996407
+therapy near me,speech therapy,3,https://kidshealth.org/en/parents/speech-therapy.html,kidshealth.org,0.00211560577439973
+therapy near me,speech therapy,4,https://www.mwspeech.com/,www.mwspeech.com,0.0011283230796798561
+therapy near me,speech therapy,5,https://www.asha.org/,www.asha.org,0.0009872826947198742
+therapy near me,speech therapy,6,https://www.parents.com/kids/development/learning-disabilities/what-is-speech-therapy/,www.parents.com,0.0007052019247999102
+therapy near me,speech therapy,7,http://www.ttspeech.com/,www.ttspeech.com,0.0005641615398399281
+therapy near me,speech therapy,8,https://www.a2aspeechtherapy.com/,www.a2aspeechtherapy.com,0.00042312115487994604
+therapy near me,speech therapy,9,https://intermountainhealthcare.org/services/ear-nose-throat/treatment-and-detection-methods/speech-therapy/,intermountainhealthcare.org,0.00028208076991996403
+therapy near me,speech therapy,10,https://www.aspenspeechtherapy.com/,www.aspenspeechtherapy.com,0.00014104038495998201
+therapy near me,couples therapy,1,https://www.gq.com/story/couples-therapy-guide,www.gq.com,0.0012537788727074919
+therapy near me,couples therapy,2,https://www.thecut.com/article/couples-therapist.html,www.thecut.com,0.0007164450701185668
+therapy near me,couples therapy,3,https://www.talkspace.com/blog/everything-you-need-to-know-about-couples-therapy/,www.talkspace.com,0.0005373338025889251
+therapy near me,couples therapy,4,http://www.vh1.com/shows/couples-therapy-with-doctor-jenn,www.vh1.com,0.00028657802804742675
+therapy near me,couples therapy,5,https://www.sho.com/couples-therapy,www.sho.com,0.0002507557745414984
+therapy near me,couples therapy,6,https://positivepsychology.com/couples-therapy-worksheets-activities/,positivepsychology.com,0.0001791112675296417
+therapy near me,couples therapy,7,https://www.youtube.com/watch?v=FJbWAWnWuio,www.youtube.com,0.00014328901402371337
+therapy near me,couples therapy,8,https://podcasts.apple.com/us/podcast/couples-therapy-with-candice-and-casey/id1380252026,podcasts.apple.com,0.00010746676051778501
+therapy near me,couples therapy,9,https://www.youtube.com/watch?v=4nPuZ9chE7s,www.youtube.com,7.164450701185669e-05
+therapy near me,couples therapy,10,https://www.theknot.com/content/what-to-expect-from-couples-therapy,www.theknot.com,3.582225350592834e-05
+therapy near me,couples therapy near me,1,https://www.thumbtack.com/k/couples-therapy/near-me/,www.thumbtack.com,0.00016186321097447145
+therapy near me,couples therapy near me,2,https://couplesinstitutecounseling.com/how-to-choose-a-couples-therapist/,couplesinstitutecounseling.com,9.249326341398368e-05
+therapy near me,couples therapy near me,3,https://www.aarp.org/home-family/friends-family/info-2020/marriage-counseling.html,www.aarp.org,6.936994756048776e-05
+therapy near me,couples therapy near me,4,https://www.nbcnews.com/better/lifestyle/4-ways-reap-benefits-couple-s-therapy-without-seeing-therapist-ncna1135171,www.nbcnews.com,3.699730536559347e-05
+therapy near me,couples therapy near me,5,https://www.gottman.com/couples/find-a-therapist/,www.gottman.com,3.237264219489429e-05
+therapy near me,couples therapy near me,6,https://www.psychologytoday.com/us/therapists/couples-counseling,www.psychologytoday.com,2.312331585349592e-05
+therapy near me,couples therapy near me,7,https://www.yelp.com/nearme/couples-therapy,www.yelp.com,1.8498652682796737e-05
+therapy near me,couples therapy near me,8,https://www.psychologytoday.com/us/therapists/couples-counseling/maine,www.psychologytoday.com,1.3873989512097552e-05
+therapy near me,couples therapy near me,9,https://www.fatherly.com/love-money/best-couples-therapy-for-you-pros-cons/,www.fatherly.com,9.249326341398368e-06
+therapy near me,couples therapy near me,10,https://thervo.com/marriage-counseling,thervo.com,4.624663170699184e-06
+therapy near me,counseling near me,1,https://thervo.com/counselors,thervo.com,0.0025447167825260767
+therapy near me,counseling near me,2,https://www.talkspace.com/blog/counseling-near-me/,www.talkspace.com,0.001454123875729187
+therapy near me,counseling near me,3,https://www.consumerfinance.gov/find-a-housing-counselor/,www.consumerfinance.gov,0.00109059290679689
+therapy near me,counseling near me,4,https://www.hud.gov/i_want_to/talk_to_a_housing_counselor,www.hud.gov,0.0005816495502916747
+therapy near me,counseling near me,5,https://www.nfcc.org/,www.nfcc.org,0.0005089433565052154
+therapy near me,counseling near me,6,https://www.psychologytoday.com/us/therapists,www.psychologytoday.com,0.00036353096893229674
+therapy near me,counseling near me,7,https://www.nsgc.org/page/find-a-genetic-counselor,www.nsgc.org,0.00029082477514583735
+therapy near me,counseling near me,8,https://www.betterhelp.com/advice/therapy/how-do-i-find-a-therapist-near-me/,www.betterhelp.com,0.000218118581359378
+therapy near me,counseling near me,9,https://therapygroupdc.com/marriage-counseling-therapy-washington-dc/,therapygroupdc.com,0.00014541238757291867
+therapy near me,counseling near me,10,https://www.opencounseling.com/,www.opencounseling.com,7.270619378645934e-05
+therapy near me,behavioral therapy,1,https://www.healthline.com/health/behavioral-therapy,www.healthline.com,0.002267593501624832
+therapy near me,behavioral therapy,2,https://www.verywellmind.com/what-is-behavioral-therapy-2795998,www.verywellmind.com,0.00129576771521419
+therapy near me,behavioral therapy,3,https://www.simplypsychology.org/behavioral-therapy.html,www.simplypsychology.org,0.0009718257864106424
+therapy near me,behavioral therapy,4,https://www.mayoclinic.org/tests-procedures/cognitive-behavioral-therapy/about/pac-20384610,www.mayoclinic.org,0.000518307086085676
+therapy near me,behavioral therapy,5,https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral,www.apa.org,0.0004535187003249665
+therapy near me,behavioral therapy,6,https://en.wikipedia.org/wiki/Behaviour_therapy,en.wikipedia.org,0.0003239419288035475
+therapy near me,behavioral therapy,7,https://effectivechildtherapy.org/therapies/what-is-behavior-therapy/,effectivechildtherapy.org,0.000259153543042838
+therapy near me,behavioral therapy,8,https://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy/,psychcentral.com,0.00019436515728212848
+therapy near me,behavioral therapy,9,https://online.regiscollege.edu/blog/define-behavior-therapy/,online.regiscollege.edu,0.000129576771521419
+therapy near me,behavioral therapy,10,https://www.psychologytoday.com/us/basics/cognitive-behavioral-therapy,www.psychologytoday.com,6.47883857607095e-05
+therapy near me,pediatric therapy near me,1,https://www.pedtherapy.com/,www.pedtherapy.com,0.00016608898034538923
+therapy near me,pediatric therapy near me,2,https://www.abcpediatrictherapy.com/,www.abcpediatrictherapy.com,9.490798876879386e-05
+therapy near me,pediatric therapy near me,3,https://helpinghandspediatrictherapy.com/,helpinghandspediatrictherapy.com,7.118099157659539e-05
+therapy near me,pediatric therapy near me,4,https://www.thepediatrictherapyclinic.com/,www.thepediatrictherapyclinic.com,3.796319550751754e-05
+therapy near me,pediatric therapy near me,5,https://www.dvpediatrictherapy.com/,www.dvpediatrictherapy.com,3.321779606907785e-05
+therapy near me,pediatric therapy near me,6,https://www.jumpstartcenter.com/,www.jumpstartcenter.com,2.3726997192198464e-05
+therapy near me,pediatric therapy near me,7,https://www.inharmonypediatrictherapy.com/,www.inharmonypediatrictherapy.com,1.898159775375877e-05
+therapy near me,pediatric therapy near me,8,https://www.chatterboxpeds.com/,www.chatterboxpeds.com,1.4236198315319077e-05
+therapy near me,pediatric therapy near me,9,https://littlestepspt.com/,littlestepspt.com,9.490798876879385e-06
+therapy near me,pediatric therapy near me,10,http://www.treehousetherapynj.com/,www.treehousetherapynj.com,4.7453994384396925e-06
+therapy near me,behavioral therapy near me,1,https://www.psychologytoday.com/us/therapists/cognitive-behavioral-cbt,www.psychologytoday.com,0.0001455263347154774
+therapy near me,behavioral therapy near me,2,https://chadd.org/adhd-weekly/how-to-find-a-behavioral-therapist-near-you/,chadd.org,8.315790555170139e-05
+therapy near me,behavioral therapy near me,3,https://thervo.com/cognitive-behavioral-cbt-therapy,thervo.com,6.236842916377603e-05
+therapy near me,behavioral therapy near me,4,http://nwapremiercounseling.com/,nwapremiercounseling.com,3.3263162220680556e-05
+therapy near me,behavioral therapy near me,5,https://www.abct.org/Help/?m=mFindHelp&fa=HowToChooseTherapist,www.abct.org,2.910526694309549e-05
+therapy near me,behavioral therapy near me,6,https://www.yelp.com/nearme/behavioral-therapist,www.yelp.com,2.0789476387925348e-05
+therapy near me,behavioral therapy near me,7,https://www.talkspace.com/blog/therapy-cognitive-behavioral-cbt-find-near-me/,www.talkspace.com,1.6631581110340278e-05
+therapy near me,behavioral therapy near me,8,https://www.team4kids.com/cognitive-behavioral-therapy-in-peoria-az/,www.team4kids.com,1.2473685832755207e-05
+therapy near me,behavioral therapy near me,9,https://www.thumbtack.com/k/behavioral-health-counseling/near-me/,www.thumbtack.com,8.315790555170139e-06
+therapy near me,behavioral therapy near me,10,https://www.healthgrades.com/right-care/childrens-health/signs-your-child-may-need-behavioral-therapy,www.healthgrades.com,4.1578952775850695e-06
+therapy near me,family therapy near me,1,https://thervo.com/family-counseling,thervo.com,0.00011936329249378641
+therapy near me,family therapy near me,2,https://www.talkspace.com/blog/family-counseling-near-me-what-is-definition-where-to-find/,www.talkspace.com,6.82075957107351e-05
+therapy near me,family therapy near me,3,https://www.kellerchildandfamilytherapy.com/,www.kellerchildandfamilytherapy.com,5.1155696783051315e-05
+therapy near me,family therapy near me,4,https://www.aamft.org/Directories/Find_a_Therapist.aspx,www.aamft.org,2.728303828429404e-05
+therapy near me,family therapy near me,5,https://www.yelp.com/nearme/family-counseling,www.yelp.com,2.3872658498757283e-05
+therapy near me,family therapy near me,6,https://summitfamilytherapy.com/,summitfamilytherapy.com,1.7051898927683775e-05
+therapy near me,family therapy near me,7,https://capitaldistricttherapy.com/,capitaldistricttherapy.com,1.364151914214702e-05
+therapy near me,family therapy near me,8,https://www.yelp.com/nearme/family-therapy,www.yelp.com,1.0231139356610264e-05
+therapy near me,family therapy near me,9,http://strongsvillefamilycounseling.com/,strongsvillefamilycounseling.com,6.82075957107351e-06
+therapy near me,family therapy near me,10,https://www.fftllc.com/sites/,www.fftllc.com,3.410379785536755e-06
+therapy near me,family therapy,1,https://www.mayoclinic.org/tests-procedures/family-therapy/about/pac-20385237,www.mayoclinic.org,0.0028915467349837614
+therapy near me,family therapy,2,https://healthypsych.com/family-therapy/,healthypsych.com,0.001652312419990721
+therapy near me,family therapy,3,https://www.goodtherapy.org/learn-about-therapy/modes/family-therapy,www.goodtherapy.org,0.0012392343149930406
+therapy near me,family therapy,4,https://positivepsychology.com/family-therapy/,positivepsychology.com,0.0006609249679962884
+therapy near me,family therapy,5,https://www.ncbi.nlm.nih.gov/books/NBK64269/,www.ncbi.nlm.nih.gov,0.0005783093469967523
+therapy near me,family therapy,6,https://en.wikipedia.org/wiki/Family_therapy,en.wikipedia.org,0.00041307810499768025
+therapy near me,family therapy,7,https://www.webmd.com/parenting/family-therapy-overview,www.webmd.com,0.0003304624839981442
+therapy near me,family therapy,8,https://www.cornerstonefamilytherapy.org/,www.cornerstonefamilytherapy.org,0.00024784686299860815
+therapy near me,family therapy,9,https://www.aamft.org/,www.aamft.org,0.0001652312419990721
+therapy near me,family therapy,10,https://www.ftacounseling.com/,www.ftacounseling.com,8.261562099953605e-05
+therapy near me,hormone therapy near me,1,https://www.dfwantiagingwellness.com/tag/hormone-therapy-treatment-near-me/,www.dfwantiagingwellness.com,0.00011766992825380917
+therapy near me,hormone therapy near me,2,https://www.illumeaesthetics.com/bioidentical-hormone-therapy,www.illumeaesthetics.com,6.723995900217667e-05
+therapy near me,hormone therapy near me,3,https://www.dfwantiagingwellness.com/tag/hormone-replacement-therapy-near-me/,www.dfwantiagingwellness.com,5.042996925163251e-05
+therapy near me,hormone therapy near me,4,https://pubmed.ncbi.nlm.nih.gov/28277141/,pubmed.ncbi.nlm.nih.gov,2.689598360087067e-05
+therapy near me,hormone therapy near me,5,https://www.plannedparenthood.org/planned-parenthood-great-northwest-hawaiian-islands/patient/services-transgender-patients,www.plannedparenthood.org,2.3533985650761838e-05
+therapy near me,hormone therapy near me,6,https://www.rejuva-med.com/pellet-hormone-therapy,www.rejuva-med.com,1.6809989750544168e-05
+therapy near me,hormone therapy near me,7,https://www.everydayhealth.com/news/things-your-doctor-wont-tell-you-about-hormone-therapy/,www.everydayhealth.com,1.3447991800435335e-05
+therapy near me,hormone therapy near me,8,https://www.umms.org/ummc/health-services/womens-health/obstetrics-gynecology/menopausal-care/hormone-therapy,www.umms.org,1.0085993850326502e-05
+therapy near me,hormone therapy near me,9,https://pellecome.com/,pellecome.com,6.7239959002176674e-06
+therapy near me,hormone therapy near me,10,https://www.erineverettnp.com/atlanta-transgender-healthcare/hrt-hormone-replacement-therapy/,www.erineverettnp.com,3.3619979501088337e-06
+therapy near me,therapy dog,1,https://www.akc.org/sports/title-recognition-program/therapy-dog-program/what-is-a-therapy-dog/,www.akc.org,0.001486354828998804
+therapy near me,therapy dog,2,https://usserviceanimals.org/blog/therapy-dog/,usserviceanimals.org,0.0008493456165707451
+therapy near me,therapy dog,3,https://en.wikipedia.org/wiki/Therapy_dog,en.wikipedia.org,0.0006370092124280588
+therapy near me,therapy dog,4,https://www.therapydogs.com/service-dog-vs-therapy-dog/,www.therapydogs.com,0.00033973824662829804
+therapy near me,therapy dog,5,https://www.youtube.com/watch?v=jjrtjG0eWfk,www.youtube.com,0.00029727096579976084
+therapy near me,therapy dog,6,https://www.therapydogs.com/,www.therapydogs.com,0.00021233640414268628
+therapy near me,therapy dog,7,https://www.tdi-dog.org/,www.tdi-dog.org,0.00016986912331414902
+therapy near me,therapy dog,8,https://www.luc.edu/wellness/mentalhealth/therapydog/,www.luc.edu,0.00012740184248561176
+therapy near me,therapy dog,9,https://www.instagram.com/magnusthetherapydog/?hl=en,www.instagram.com,8.493456165707451e-05
+therapy near me,therapy dog,10,https://sites.rowan.edu/wellness/pettherapy/national-dog-show-therapy-dog-symposium-hosted-by-rowan-university.html,sites.rowan.edu,4.2467280828537256e-05
